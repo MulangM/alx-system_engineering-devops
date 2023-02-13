@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 mulang mulang 4096 Gur 13 12:58 .
+drwxrwxr-x 6 mulang mulang 4096 Gur 13 09:48 ..
+-rwxrw-r-- 1 mulang mulang   33 Gur 13 10:22 0-hello_world
+-rwxrw-r-- 1 mulang mulang   34 Gur 13 10:43 1-confused_smiley
+-rw-rw-r-- 1 mulang mulang    8 Gur 13 10:42 2-confused_smiley
+-rw-rw-r-- 1 mulang mulang   28 Gur 13 10:57 2-hellofile
+-rwxrw-r-- 1 mulang mulang   39 Gur 13 11:14 3-twofiles
+-rwxrw-r-- 1 mulang mulang   29 Gur 13 11:38 4-lastlines
+-rwxrw-r-- 1 mulang mulang   29 Gur 13 11:44 5-firstlines
+-rwxrw-r-- 1 mulang mulang   36 Gur 13 11:55 6-third_line
+-rwxrw-r-- 1 mulang mulang   98 Gur 13 12:52 7-file
+-rwxrw-r-- 1 mulang mulang   36 Gur 13 12:57 8-cwd_state
+-rw-rw-r-- 1 mulang mulang    0 Gur 13 12:58 ls_cwd_content
+-rw-rw-r-- 1 mulang mulang   57 Gur 13 09:50 README.md
