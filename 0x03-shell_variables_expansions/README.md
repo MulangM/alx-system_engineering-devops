@@ -15,3 +15,7 @@ Task 11. In task 11 we are Writing a script that converts a number from base 2 t
 Task 12. We arw creating a script that prints all possible combinations of two letters, except oo.
 Task 13. We Write a script that prints a number with two decimal places, followed by a new line. 
 	 The number will be stored in the environment variable NUM.
+Task 14. We Write a script that converts a number from base 10 to base 16.
+	The number in base 10 is stored in the environment variable DECIMAL
+	The script should display the number in base 16, followed by a new line
+
